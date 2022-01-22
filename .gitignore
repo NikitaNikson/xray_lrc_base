@@ -5,3 +5,6 @@
 *.VC.VC.opendb
 *.user
 *.cache
+/src/intermediate
+/_build
+
